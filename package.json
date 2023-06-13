@@ -19,6 +19,8 @@
   },
   "devDependencies": {
     "eslint": "8.9.0",
-    "eslint-config-next": "12.1.0"
+    "eslint-config-next": "12.1.0",
+    "style-dictionary": "^3.8.0",
+    "token-transformer": "^0.0.33"
   }
 }
