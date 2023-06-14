@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "design-sync": "node design-token.js"
   },
   "dependencies": {
     "date-fns": "^2.28.0",

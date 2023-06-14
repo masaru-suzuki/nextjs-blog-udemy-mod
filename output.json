@@ -1,0 +1,16 @@
+{
+  "sample": {
+    "value": "#efefef",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "sample",
+      "type": "other"
+    }
+  }
+}
