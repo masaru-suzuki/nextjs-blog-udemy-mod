@@ -1,24 +1,24 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Jun 2023 00:51:13 GMT
+ * Generated on Wed, 14 Jun 2023 01:10:00 GMT
  */
 
 module.exports = {
-  "sample": {
-    "value": "#efefef",
+  "theme-color": {
+    "value": "#838538",
     "type": "color",
     "filePath": "output.json",
     "isSource": true,
     "original": {
-      "value": "#efefef",
+      "value": "#838538",
       "type": "color"
     },
-    "name": "Sample",
+    "name": "ThemeColor",
     "attributes": {
-      "category": "sample"
+      "category": "theme-color"
     },
     "path": [
-      "sample"
+      "theme-color"
     ]
   },
   "tokenSetOrder": {
@@ -39,25 +39,6 @@ module.exports = {
       "path": [
         "tokenSetOrder",
         "0"
-      ]
-    },
-    "1": {
-      "value": "sample",
-      "type": "other",
-      "filePath": "output.json",
-      "isSource": true,
-      "original": {
-        "value": "sample",
-        "type": "other"
-      },
-      "name": "TokenSetOrder1",
-      "attributes": {
-        "category": "tokenSetOrder",
-        "type": "1"
-      },
-      "path": [
-        "tokenSetOrder",
-        "1"
       ]
     }
   }

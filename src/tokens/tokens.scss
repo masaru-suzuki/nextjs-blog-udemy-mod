@@ -1,17 +1,15 @@
 
 /**
  * Do not edit directly
- * Generated on Wed, 14 Jun 2023 00:51:13 GMT
+ * Generated on Wed, 14 Jun 2023 01:10:00 GMT
  */
 
-$token-set-order-1: sample !default;
 $token-set-order-0: global !default;
-$sample: #efefef !default;
+$theme-color: #838538 !default;
 
 $css-tokens: (
-  'sample': $sample,
+  'theme-color': $theme-color,
   'tokenSetOrder': (
-    '0': $token-set-order-0,
-    '1': $token-set-order-1
+    '0': $token-set-order-0
   )
 );

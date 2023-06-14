@@ -1,15 +1,11 @@
 {
-  "sample": {
-    "value": "#efefef",
+  "theme-color": {
+    "value": "#838538",
     "type": "color"
   },
   "tokenSetOrder": {
     "0": {
       "value": "global",
-      "type": "other"
-    },
-    "1": {
-      "value": "sample",
       "type": "other"
     }
   }
