@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jun 2023 04:49:55 GMT
+ * Generated on Fri, 16 Jun 2023 06:02:21 GMT
  */
 
 export default tokens;
@@ -23,8 +23,23 @@ declare interface DesignToken {
 
 declare const tokens: {
   "theme-color": DesignToken,
-  "secondary": DesignToken,
+  "secondary-color": DesignToken,
+  "brandA": {
+    "theme": DesignToken,
+    "secondary": DesignToken
+  },
+  "brandB": {
+    "theme": DesignToken,
+    "secondary": DesignToken
+  },
+  "brandC": {
+    "theme": DesignToken,
+    "secondary": DesignToken
+  },
   "tokenSetOrder": {
-    "0": DesignToken
+    "0": DesignToken,
+    "1": DesignToken,
+    "2": DesignToken,
+    "3": DesignToken
   }
 }
