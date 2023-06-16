@@ -1,16 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Jun 2023 01:10:00 GMT
+ * Generated on Fri, 16 Jun 2023 04:49:55 GMT
  */
 
 module.exports = {
   "theme-color": {
-    "value": "#838538",
+    "value": "#fff800",
     "type": "color",
     "filePath": "output.json",
     "isSource": true,
     "original": {
-      "value": "#838538",
+      "value": "#fff800",
       "type": "color"
     },
     "name": "ThemeColor",
@@ -19,6 +19,23 @@ module.exports = {
     },
     "path": [
       "theme-color"
+    ]
+  },
+  "secondary": {
+    "value": "#403980",
+    "type": "color",
+    "filePath": "output.json",
+    "isSource": true,
+    "original": {
+      "value": "#403980",
+      "type": "color"
+    },
+    "name": "Secondary",
+    "attributes": {
+      "category": "secondary"
+    },
+    "path": [
+      "secondary"
     ]
   },
   "tokenSetOrder": {

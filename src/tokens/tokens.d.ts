@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Jun 2023 01:10:00 GMT
+ * Generated on Fri, 16 Jun 2023 04:49:55 GMT
  */
 
 export default tokens;
@@ -23,6 +23,7 @@ declare interface DesignToken {
 
 declare const tokens: {
   "theme-color": DesignToken,
+  "secondary": DesignToken,
   "tokenSetOrder": {
     "0": DesignToken
   }

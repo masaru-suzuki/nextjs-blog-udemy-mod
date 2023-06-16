@@ -1,6 +1,10 @@
 {
   "theme-color": {
-    "value": "#838538",
+    "value": "#fff800",
+    "type": "color"
+  },
+  "secondary": {
+    "value": "#403980",
     "type": "color"
   },
   "tokenSetOrder": {
